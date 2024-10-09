@@ -1,0 +1,13 @@
+ul>li {
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.dash {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  font-weight: bold;
+  font-size: 6rem;
+}
